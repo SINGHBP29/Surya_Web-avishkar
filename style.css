@@ -1,0 +1,31 @@
+.form-group{
+    background-color: rgb(236, 244, 250);
+    background-origin: padding-box;
+    border: 0cm;
+    margin: auto;
+    border-radius: 0%;
+    border-bottom: 0ch;
+    margin: auto;
+    font-weight: 100;
+    font-display: flex;
+    font-style: italic;
+
+}
+
+.modal-body{
+    background-color: rgb(83, 190, 190);
+    background-origin: border-box;
+    border-color: azure;
+    border-radius: 0%;
+    border-bottom: 0ch;
+    margin: 00;
+    font-weight: 100;
+    font-display: flex;
+}
+.btn btn-primary{
+    background-origin: border-box;
+    padding: 0%;
+    hover: transparent;
+    
+
+}
